@@ -1,0 +1,262 @@
+{
+  "site": {
+    "name": "TSR",
+    "fullName": "Targa Sinjalizim dhe Reklama",
+    "tagline": "Zgjidhje vizuale dhe sinjalizuese me standard profesional"
+  },
+  "navigation": {
+    "home": "Ballina",
+    "services": "Sherbimet",
+    "about": "Rreth Nesh",
+    "design": "Design",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "TSR SH.P.K",
+      "title": "Sinjalizim i qarte. Reklama qe duket.",
+      "description": "Ne projektojme, prodhojme dhe montojme tabela rrugore, sinjalistike biznesi dhe materiale reklamuese per kompani moderne ne Kosove."
+    },
+    "ctaPrimary": "Shiko sherbimet",
+    "ctaSecondary": "Na kontakto",
+    "signGrid": {
+      "line1": "Shenja që tërheqin vëmendjen.",
+      "line2": "Ndërtuar për rrugë që nuk flejnë kurrë."
+    },
+    "highlights": [
+      {
+        "title": "Projektim",
+        "description": "Koncept i qarte vizual dhe teknik para prodhimit."
+      },
+      {
+        "title": "Prodhim",
+        "description": "Punim preciz me materiale te qendrueshme dhe standarde sigurie."
+      },
+      {
+        "title": "Montim",
+        "description": "Ekip i organizuar per instalim te paster dhe te sigurt."
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Qe nga 1999",
+      "title": "Rreth TSR"
+    },
+    "mission": "Ne e bejme boten e ndertuar me te lehte per t'u naviguar. Nga tabelat rrugore deri te vitrinat, TSR ka shpenzuar 25 vjet duke kthyer koncepte ne sisteme vizuale te qarta dhe te qendrueshme ne te gjithe Kosoven.",
+    "story": [
+      "Punojme me institucione, biznese dhe projekte private.",
+      "Qasja jone eshte minimale, funksionale dhe afatgjate.",
+      "Nga ideja deri te montimi final, gjithcka vjen nga nje ekip i vetem."
+    ],
+    "values": [
+      { "title": "Saktesi", "description": "Cdo matje, prerje dhe pozicionim mbahet ne toleranca te ngushta — nga skedari i projektimit deri te tabela e instaluar." },
+      { "title": "Siguri", "description": "Ne ndjekim kodet rrugore dhe te ndertimit ne menyre qe tabelat te mbrojne dhe orientojne ne menyre te barabarte." },
+      { "title": "Qendrueshmeri", "description": "Materiale te zgjedhura per sherbim te besueshme per vite, te testuara para se te lene punishten." },
+      { "title": "Qartesi", "description": "Komunikim i drejperdrejte nga ofertat deri te dorezimi — pa surpriza, pa nenkontraktues." }
+    ],
+    "process": [
+      { "step": "01", "title": "Projektim", "description": "Vizite ne terren, brief teknik, koncept i dokumentuar. Cdo projekt planifikohet para cdo prerje." },
+      { "step": "02", "title": "Prodhim", "description": "Prodhim brenda kompanise me filma reflektues, kompozite alumini dhe celik konstruktiv." },
+      { "step": "03", "title": "Montim", "description": "Ekipi yne merret me pozicionimin, nivelin dhe dokumentimin final ne terren. Pa nenkontraktues." }
+    ],
+    "cta": "Fillo nje projekt"
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Cfare bejme",
+      "title": "Sherbimet tona",
+      "description": "Zgjidhje te plota nga projektimi deri te dorezimi ne terren."
+    },
+    "items": [
+      {
+        "slug": "road-signage",
+        "title": "Sinjalistika Rrugore",
+        "summary": "Tabela rrugore, orientuese dhe paralajmeruese sipas standardeve.",
+        "details": [
+          "Projektim sipas planit urban dhe nevojave te trafikut.",
+          "Perdorim i reflektiviteteve cilesore per dukshmeri naten dhe diten.",
+          "Montim ne terren me kontroll te pozicionimit."
+        ],
+        "deliverables": [
+          "Tabela reflektuese",
+          "Shtylla dhe konstruksione",
+          "Dokumentim teknik"
+        ]
+      },
+      {
+        "slug": "advertising-branding",
+        "title": "Reklama dhe Brandim",
+        "summary": "Zgjidhje reklamuese per fasada, vitrina dhe hapesira te brendshme.",
+        "details": [
+          "Dizajn i identitetit vizual per prezence me te forte te markes.",
+          "Perpunim i materialeve nga PVC, alubond dhe akrilik.",
+          "Instalim i ndricuar dhe jo i ndricuar sipas lokacionit."
+        ],
+        "deliverables": [
+          "Tabela reklamuese",
+          "Veshje vitrinash",
+          "Elemente 3D te logos"
+        ]
+      },
+      {
+        "slug": "business-wayfinding",
+        "title": "Sinjalizim Biznesi",
+        "summary": "Sisteme orientuese per zyra, qendra tregtare dhe institucione.",
+        "details": [
+          "Planifikim i rrjedhes se levizjes per vizitoret.",
+          "Tabela informative te brendshme dhe te jashtme.",
+          "Prodhim modular per zgjerim te lehte ne te ardhmen."
+        ],
+        "deliverables": [
+          "Wayfinding set",
+          "Numerim zyrash",
+          "Tabela informacioni"
+        ]
+      }
+    ]
+  },
+  "design": {
+    "hero": {
+      "title": "Sistemi i Dizajnit TSR",
+      "description": "Komponentet baze qe perdoren ne tera faqet, me dokumentim te qarte per perdorim."
+    },
+    "sections": [
+      {
+        "name": "Header",
+        "description": "Navigim i thjeshte me nderrues te gjuhes dhe temes."
+      },
+      {
+        "name": "Hero",
+        "description": "Bllok i gjate me titull dhe pershkrim kryesor."
+      },
+      {
+        "name": "Content Block",
+        "description": "Kartele e paster per informata te strukturuara."
+      },
+      {
+        "name": "Footer",
+        "description": "Kontakt, adrese dhe glob animues dekorativ."
+      }
+    ]
+  },
+  "ui": {
+    "openService": "Hape sherbimin",
+    "otherServices": "Sherbimet e tjera",
+    "story": "Historia",
+    "values": "Vlerat",
+    "details": "Detajet",
+    "deliverables": "Dorrezimet",
+    "loading": "Duke ngarkuar permbajtjen...",
+    "contentError": "Permbajtja nuk mund te ngarkohet.",
+    "notFoundTitle": "Faqja nuk u gjet",
+    "notFoundDescription": "Permbajtja qe po kerkoni nuk ekziston.",
+    "backHome": "Kthehu ne balline",
+    "headerDocTitle": "Komponenti Header",
+    "headerDocDescription": "Navigim, nderrim gjuhe dhe nderrim teme ne nje shirit.",
+    "switchersDocTitle": "Nderruesit",
+    "switchersDocDescription": "Kontrolle te riperdorshme per gjuhe dhe mode te drites.",
+    "footerDocTitle": "Komponenti Footer",
+    "footerDocDescription": "Footer i thjeshte me kontaktet nga JSON.",
+    "themeLight": "Drite",
+    "themeDark": "Erresire"
+  },
+  "iso": {
+    "label": "I Certifikuar per Cilesine",
+    "standard": "ISO 9001:2015",
+    "title": "Cilesie ne cdo hap te procesit.",
+    "body": "TSR operon nen nje sistem te menaxhimit te cilesise te certifikuar sipas ISO 9001:2015. Nga projektimi fillestar, permes prodhimit dhe deri ne instalimin ne terren, cdo proces eshte i dokumentuar, i audituar dhe i mbajtur ne standarde nderkombetare — duke garantuar rezultate te qendrueshme dhe besueshmeri afatgjate."
+  },
+  "projects": {
+    "label": "Pune te Zgjedhura",
+    "title": "Projekte ne gjithe Kosoven.",
+    "categories": [
+      {
+        "id": "municipalities",
+        "label": "Komunat",
+        "items": [
+          { "name": "Prishtina", "scope": "Sinjalizim rrugor dhe orientues" },
+          { "name": "Prizreni", "scope": "Sinjalizim urban i trafikut" },
+          { "name": "Peja", "scope": "Sistemi i orientimit rrugor" },
+          { "name": "Gjilani", "scope": "Tabela trafiku dhe kembesoresh" },
+          { "name": "Mitrovica", "scope": "Shenjezim dhe sinjalizim rrugor" },
+          { "name": "Ferizaji", "scope": "Sistem orientues komunal" }
+        ]
+      },
+      {
+        "id": "companies",
+        "label": "Kompanite",
+        "items": [
+          { "name": "Raiffeisen Bank Kosove", "scope": "Rrjet sinjalizimi per dege" },
+          { "name": "ProCredit Bank", "scope": "Sinjalizim fasade dhe brendasore" },
+          { "name": "Meridian Express", "scope": "Branding i flotiljes dhe nenjesive" },
+          { "name": "City Mall Prishtina", "scope": "Sistem orientues dhe tabela" },
+          { "name": "Beni Commerce", "scope": "Reklamim dhe branding" },
+          { "name": "Albi Mall", "scope": "Sistem navigimi brendasore" }
+        ]
+      },
+      {
+        "id": "government",
+        "label": "Qeveria",
+        "items": [
+          { "name": "Ministria e Infrastruktures", "scope": "Sinjalizim rrugor kombetar" },
+          { "name": "Autoriteti Rrugor i Kosoves", "scope": "Instalim tabelash autostradale" },
+          { "name": "Ministria e Arsimit", "scope": "Sinjalizim institucionesh" },
+          { "name": "Policia e Kosoves", "scope": "Tabela identifikimi objektesh" },
+          { "name": "Ministria e Shendetesise", "scope": "Sistem orientues spitalor" },
+          { "name": "Dogana e Kosoves", "scope": "Sinjalizim kufitar" }
+        ]
+      }
+    ]
+  },
+  "numbers": {
+    "label": "TSR ne numra",
+    "title": "Qe nga viti 1999.",
+    "stats": [
+      { "value": "25+", "label": "Vjet ne operim" },
+      { "value": "1200+", "label": "Projekte te perfunduara" },
+      { "value": "38", "label": "Komuna te sherbyer" },
+      { "value": "4000+", "label": "Tabela te instaluara" }
+    ]
+  },
+  "footer": {
+    "addressTitle": "Adresa",
+    "addressLines": ["Zona Industriale", "Prishtine, Kosove"],
+    "contactTitle": "Kontakt",
+    "phone": "+383 44 000 000",
+    "email": "info@tsr-ks.com",
+    "workingHours": "Hene - Premte, 08:00 - 17:00",
+    "copyright": "Copyright 2026 TSR SH.P.K"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Na kontakto",
+      "title": "Kontakt"
+    },
+    "types": [
+      {
+        "id": "general",
+        "label": "Kerkese e pergjithshme",
+        "description": "Pyetje rreth TSR, partneriteteve ose informacioneve te pergjithshme.",
+        "hint": "Permend \"E pergjithshme\" ne rreshtin e temave."
+      },
+      {
+        "id": "projects",
+        "label": "Projekte",
+        "description": "Kerkesa per projekte te reja, oferta dhe vizita ne terren.",
+        "hint": "Perfshi emrin e komunitetit ose kompanise."
+      }
+    ],
+    "emailLabel": "Email",
+    "phoneLabel": "Telefon",
+    "reveal": "Zbulo",
+    "hide": "Fshih",
+    "copy": "Kopjo",
+    "copied": "Kopjuar!",
+    "sendEmail": "Dergo email",
+    "call": "Thirr",
+    "addressLabel": "Adresa",
+    "hoursLabel": "Oret e punes",
+    "hoursValue": "Hene \u2013 Premte, 08:00 \u2013 17:00"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "site": {
+    "name": "TSR",
+    "fullName": "Verkehrsbeschilderung und Werbung",
+    "tagline": "Visuelle und Beschilderungsloesungen mit professionellem Standard"
+  },
+  "navigation": {
+    "home": "Start",
+    "services": "Leistungen",
+    "about": "Ueber Uns",
+    "design": "Design",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "TSR GmbH",
+      "title": "Klare Beschilderung. Werbung mit Wirkung.",
+      "description": "Wir planen, produzieren und montieren Verkehrsschilder, Unternehmensleitsysteme und Werbematerialien fuer moderne Unternehmen im Kosovo."
+    },
+    "ctaPrimary": "Leistungen ansehen",
+    "ctaSecondary": "Kontakt aufnehmen",
+    "signGrid": {
+      "line1": "Zeichen, die Aufmerksamkeit fordern.",
+      "line2": "Gebaut für Straßen, die nie schlafen."
+    },
+    "highlights": [
+      {
+        "title": "Planung",
+        "description": "Klare visuelle und technische Konzeption vor der Produktion."
+      },
+      {
+        "title": "Produktion",
+        "description": "Praezise Fertigung mit langlebigen Materialien und Sicherheitsstandards."
+      },
+      {
+        "title": "Montage",
+        "description": "Organisiertes Team fuer saubere und sichere Installation vor Ort."
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Seit 1999",
+      "title": "Ueber TSR"
+    },
+    "mission": "Wir machen die gebaute Welt leichter navigierbar. Von Verkehrsschildern bis zu Schaufenstern verwandelt TSR seit 25 Jahren Konzepte in klare, dauerhafte visuelle Systeme.",
+    "story": [
+      "Wir arbeiten mit Institutionen, Unternehmen und privaten Projekten.",
+      "Unser Ansatz ist minimal, funktional und langfristig.",
+      "Von der Idee bis zur Endmontage kommt alles aus einem Team."
+    ],
+    "values": [
+      { "title": "Praezision", "description": "Jede Messung, jeder Schnitt und jede Positionierung wird auf enge Toleranzen eingehalten." },
+      { "title": "Sicherheit", "description": "Wir befolgen Strassen- und Baunormen, damit Schilder schuetzen und leiten." },
+      { "title": "Langlebigkeit", "description": "Materialien fuer jahrelangen Betrieb, geprueft bevor sie das Werk verlassen." },
+      { "title": "Klarheit", "description": "Direkte Kommunikation vom Angebot bis zur Uebergabe — keine Ueberraschungen, keine Subunternehmer." }
+    ],
+    "process": [
+      { "step": "01", "title": "Planung", "description": "Ortsbegehung, technisches Briefing, dokumentiertes Konzept. Kein Schnitt ohne Plan." },
+      { "step": "02", "title": "Produktion", "description": "Eigene Fertigung mit Reflexionsfolien, Aluminiumverbundwerkstoffen und Konstruktionsstahl." },
+      { "step": "03", "title": "Montage", "description": "Unser Team uebernimmt Platzierung, Ausrichtung und abschliessende Dokumentation vor Ort." }
+    ],
+    "cta": "Projekt starten"
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Was wir tun",
+      "title": "Unsere Leistungen",
+      "description": "Komplette Loesungen von der Idee bis zur Umsetzung vor Ort."
+    },
+    "items": [
+      {
+        "slug": "road-signage",
+        "title": "Verkehrsbeschilderung",
+        "summary": "Verkehrs-, Orientierungs- und Warnschilder gemaess Standards.",
+        "details": [
+          "Planung nach Stadtbild und Verkehrsanforderungen.",
+          "Hochwertige Reflexionsschichten fuer Sichtbarkeit bei Tag und Nacht.",
+          "Montage vor Ort mit Ausrichtungskontrolle."
+        ],
+        "deliverables": [
+          "Reflektierende Schilder",
+          "Masten und Konstruktionen",
+          "Technische Dokumentation"
+        ]
+      },
+      {
+        "slug": "advertising-branding",
+        "title": "Werbung und Branding",
+        "summary": "Werbeloesungen fuer Fassaden, Schaufenster und Innenraeume.",
+        "details": [
+          "Gestaltung der visuellen Identitaet fuer staerkere Markenpraesenz.",
+          "Materialbearbeitung aus PVC, Alubond und Acryl.",
+          "Beleuchtete und unbeleuchtete Montage je nach Standort."
+        ],
+        "deliverables": [
+          "Werbeschilder",
+          "Schaufensterbeklebung",
+          "3D Logo Elemente"
+        ]
+      },
+      {
+        "slug": "business-wayfinding",
+        "title": "Leit- und Orientierungssysteme",
+        "summary": "Navigationssysteme fuer Bueros, Einkaufszentren und Institutionen.",
+        "details": [
+          "Planung der Besucherbewegung fuer bessere Orientierung.",
+          "Informationsbeschilderung innen und aussen.",
+          "Modulare Produktion fuer einfache Erweiterung in der Zukunft."
+        ],
+        "deliverables": [
+          "Wayfinding Set",
+          "Buero Nummerierung",
+          "Informationstafeln"
+        ]
+      }
+    ]
+  },
+  "design": {
+    "hero": {
+      "title": "TSR Designsystem",
+      "description": "Grundkomponenten fuer alle Seiten mit klarer Dokumentation."
+    },
+    "sections": [
+      {
+        "name": "Header",
+        "description": "Einfache Navigation mit Sprach- und Theme-Umschalter."
+      },
+      {
+        "name": "Hero",
+        "description": "Langer horizontaler Bereich fuer Titel und Kernbeschreibung."
+      },
+      {
+        "name": "Content Block",
+        "description": "Saubere Karte fuer strukturierte Informationen."
+      },
+      {
+        "name": "Footer",
+        "description": "Kontakt, Adresse und animierte Globus-Dekoration."
+      }
+    ]
+  },
+  "ui": {
+    "openService": "Leistung oeffnen",
+    "otherServices": "Andere Leistungen",
+    "story": "Geschichte",
+    "values": "Werte",
+    "details": "Details",
+    "deliverables": "Lieferumfang",
+    "loading": "Inhalt wird geladen...",
+    "contentError": "Inhalt konnte nicht geladen werden.",
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundDescription": "Der gesuchte Inhalt existiert nicht.",
+    "backHome": "Zur Startseite",
+    "headerDocTitle": "Header Komponente",
+    "headerDocDescription": "Navigation, Sprachwechsel und Theme Umschalter in einer Leiste.",
+    "switchersDocTitle": "Umschalter",
+    "switchersDocDescription": "Wiederverwendbare Steuerelemente fuer Sprache und Hell/Dunkel Modus.",
+    "footerDocTitle": "Footer Komponente",
+    "footerDocDescription": "Einfacher Footer mit Kontaktdaten aus den JSON Dateien.",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel"
+  },
+  "iso": {
+    "label": "Qualitaetszertifiziert",
+    "standard": "ISO 9001:2015",
+    "title": "Qualitaet auf jeder Stufe.",
+    "body": "TSR arbeitet nach einem nach ISO 9001:2015 zertifizierten Qualitaetsmanagementsystem. Von der ersten Planung ueber die Produktion bis zur Montage vor Ort sind alle Prozesse dokumentiert, geprueft und an internationalen Standards ausgerichtet — fuer gleichbleibend hohe Ergebnisse und langfristige Zuverlaessigkeit."
+  },
+  "projects": {
+    "label": "Ausgewaehlte Arbeiten",
+    "title": "Projekte in ganz Kosovo.",
+    "categories": [
+      {
+        "id": "municipalities",
+        "label": "Gemeinden",
+        "items": [
+          { "name": "Prishtina", "scope": "Strassenbeschilderung und Leitsystem" },
+          { "name": "Prizren", "scope": "Staedtische Verkehrsbeschilderung" },
+          { "name": "Peja", "scope": "Strassenorientierungssystem" },
+          { "name": "Gjilan", "scope": "Verkehrs- und Fussgaengerschilder" },
+          { "name": "Mitrovica", "scope": "Strassenmarkierung und Beschilderung" },
+          { "name": "Ferizaj", "scope": "Kommunales Leitsystem" }
+        ]
+      },
+      {
+        "id": "companies",
+        "label": "Unternehmen",
+        "items": [
+          { "name": "Raiffeisen Bank Kosovo", "scope": "Filialen-Beschilderungsnetz" },
+          { "name": "ProCredit Bank", "scope": "Fassaden- und Innenbeschilderung" },
+          { "name": "Meridian Express", "scope": "Flotten- und Filialbranding" },
+          { "name": "City Mall Prishtina", "scope": "Leitsystem und Mieterschilder" },
+          { "name": "Beni Commerce", "scope": "Werbung und Branding" },
+          { "name": "Albi Mall", "scope": "Innennavigationssystem" }
+        ]
+      },
+      {
+        "id": "government",
+        "label": "Behoerden",
+        "items": [
+          { "name": "Ministerium fuer Infrastruktur", "scope": "Nationale Strassenbeschilderung" },
+          { "name": "Kosovo Road Authority", "scope": "Autobahnschild-Installation" },
+          { "name": "Bildungsministerium", "scope": "Institutionsbeschilderung" },
+          { "name": "Kosovo Polizei", "scope": "Einrichtungsidentifikationsschilder" },
+          { "name": "Gesundheitsministerium", "scope": "Krankenhausleitsystem" },
+          { "name": "Zoll des Kosovo", "scope": "Grenzuebergangsbeschilderung" }
+        ]
+      }
+    ]
+  },
+  "numbers": {
+    "label": "TSR in Zahlen",
+    "title": "Seit 1999.",
+    "stats": [
+      { "value": "25+", "label": "Jahre in Betrieb" },
+      { "value": "1200+", "label": "Abgeschlossene Projekte" },
+      { "value": "38", "label": "Bediente Gemeinden" },
+      { "value": "4000+", "label": "Installierte Schilder" }
+    ]
+  },
+  "footer": {
+    "addressTitle": "Adresse",
+    "addressLines": ["Industriezone", "Prishtina, Kosovo"],
+    "contactTitle": "Kontakt",
+    "phone": "+383 44 000 000",
+    "email": "info@tsr-ks.com",
+    "workingHours": "Montag - Freitag, 08:00 - 17:00",
+    "copyright": "Copyright 2026 TSR GmbH"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Kontakt aufnehmen",
+      "title": "Kontakt"
+    },
+    "types": [
+      {
+        "id": "general",
+        "label": "Allgemeine Anfrage",
+        "description": "Fragen zu TSR, Partnerschaften oder allgemeine Informationen.",
+        "hint": "Bitte \"Allgemein\" in der Betreffzeile erwaehnen."
+      },
+      {
+        "id": "projects",
+        "label": "Projekte",
+        "description": "Neue Projektanfragen, Angebote und Ortsbesichtigungen.",
+        "hint": "Gemeinde- oder Firmennamen angeben."
+      }
+    ],
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "reveal": "Anzeigen",
+    "hide": "Ausblenden",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "sendEmail": "E-Mail senden",
+    "call": "Anrufen",
+    "addressLabel": "Adresse",
+    "hoursLabel": "Oeffnungszeiten",
+    "hoursValue": "Montag \u2013 Freitag, 08:00 \u2013 17:00"
+  }
+}

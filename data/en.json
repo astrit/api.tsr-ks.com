@@ -1,0 +1,262 @@
+{
+  "site": {
+    "name": "TSR",
+    "fullName": "Traffic Signage and Advertising",
+    "tagline": "Visual and signage solutions with professional standards"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "design": "Design",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "TSR LLC",
+      "title": "Clear signage. Advertising that stands out.",
+      "description": "We design, produce, and install road signs, business wayfinding, and advertising materials for modern companies in Kosovo."
+    },
+    "ctaPrimary": "Explore services",
+    "ctaSecondary": "Contact us",
+    "signGrid": {
+      "line1": "Signs that command attention.",
+      "line2": "Built for roads that never sleep."
+    },
+    "highlights": [
+      {
+        "title": "Design",
+        "description": "Clear visual and technical concept before production."
+      },
+      {
+        "title": "Production",
+        "description": "Precise manufacturing with durable materials and safety standards."
+      },
+      {
+        "title": "Installation",
+        "description": "Organized team for clean and safe on-site installation."
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Since 1999",
+      "title": "About TSR"
+    },
+    "mission": "We make the built world easier to navigate. From road signs to storefronts, TSR has spent 25 years turning precise concepts into clear, lasting visual systems across Kosovo.",
+    "story": [
+      "We work with institutions, businesses, and private projects.",
+      "Our approach is minimal, functional, and long-term.",
+      "From concept to final installation, everything comes from one team."
+    ],
+    "values": [
+      { "title": "Precision", "description": "Every measurement, cut, and placement held to tight tolerances — from design file to installed sign." },
+      { "title": "Safety", "description": "We follow road and construction codes so signs protect and direct in equal measure." },
+      { "title": "Durability", "description": "Materials chosen for years of reliable service, tested before they leave the workshop." },
+      { "title": "Clarity", "description": "Straightforward communication from quote to handover — no surprises, no subcontractors." }
+    ],
+    "process": [
+      { "step": "01", "title": "Design", "description": "Site visit, technical brief, documented concept. Every project is planned before a single cut is made." },
+      { "step": "02", "title": "Production", "description": "In-house manufacturing with reflective films, aluminum composites, and structural steel." },
+      { "step": "03", "title": "Installation", "description": "Our team handles on-site placement, alignment, and final documentation. No subcontractors." }
+    ],
+    "cta": "Start a project"
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "What we do",
+      "title": "Our services",
+      "description": "Complete solutions from concept to field delivery."
+    },
+    "items": [
+      {
+        "slug": "road-signage",
+        "title": "Road Signage",
+        "summary": "Road, orientation, and warning signs aligned with standards.",
+        "details": [
+          "Planning based on urban layouts and traffic requirements.",
+          "High-quality reflective layers for day and night visibility.",
+          "On-site installation with alignment control."
+        ],
+        "deliverables": [
+          "Reflective signs",
+          "Poles and structures",
+          "Technical documentation"
+        ]
+      },
+      {
+        "slug": "advertising-branding",
+        "title": "Advertising and Branding",
+        "summary": "Advertising solutions for facades, storefronts, and interior spaces.",
+        "details": [
+          "Visual identity design for stronger brand presence.",
+          "Material processing in PVC, alubond, and acrylic.",
+          "Illuminated and non-illuminated installation by location."
+        ],
+        "deliverables": [
+          "Advertising signs",
+          "Storefront wraps",
+          "3D logo elements"
+        ]
+      },
+      {
+        "slug": "business-wayfinding",
+        "title": "Business Wayfinding",
+        "summary": "Navigation systems for offices, malls, and institutions.",
+        "details": [
+          "Visitor movement planning for better orientation.",
+          "Indoor and outdoor information signage.",
+          "Modular production that scales with future growth."
+        ],
+        "deliverables": [
+          "Wayfinding set",
+          "Office numbering",
+          "Information boards"
+        ]
+      }
+    ]
+  },
+  "design": {
+    "hero": {
+      "title": "TSR Design System",
+      "description": "Core components used across all pages, with clear usage documentation."
+    },
+    "sections": [
+      {
+        "name": "Header",
+        "description": "Simple navigation with language and theme switchers."
+      },
+      {
+        "name": "Hero",
+        "description": "Long horizontal block for title and key description."
+      },
+      {
+        "name": "Content Block",
+        "description": "Clean card for structured information."
+      },
+      {
+        "name": "Footer",
+        "description": "Contact details, address, and animated globe decoration."
+      }
+    ]
+  },
+  "ui": {
+    "openService": "Open service",
+    "otherServices": "Other services",
+    "story": "Story",
+    "values": "Values",
+    "details": "Details",
+    "deliverables": "Deliverables",
+    "loading": "Loading content...",
+    "contentError": "Content could not be loaded.",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The content you are trying to reach does not exist.",
+    "backHome": "Back to homepage",
+    "headerDocTitle": "Header Component",
+    "headerDocDescription": "Navigation, language switching, and theme toggle in a single top bar.",
+    "switchersDocTitle": "Switchers",
+    "switchersDocDescription": "Reusable controls for changing language and light or dark mode.",
+    "footerDocTitle": "Footer Component",
+    "footerDocDescription": "Simple footer with all contact details loaded from locale JSON files.",
+    "themeLight": "Light",
+    "themeDark": "Dark"
+  },
+  "iso": {
+    "label": "Quality Certified",
+    "standard": "ISO 9001:2015",
+    "title": "Committed to quality at every stage.",
+    "body": "TSR operates under an ISO 9001:2015 certified quality management system. From initial design through production and on-site installation, every process is documented, audited, and held to international standards — ensuring consistent results and long-term reliability."
+  },
+  "projects": {
+    "label": "Selected Work",
+    "title": "Projects across Kosovo.",
+    "categories": [
+      {
+        "id": "municipalities",
+        "label": "Municipalities",
+        "items": [
+          { "name": "Prishtina", "scope": "Road signage and wayfinding" },
+          { "name": "Prizren", "scope": "Urban traffic signage" },
+          { "name": "Peja", "scope": "Street orientation system" },
+          { "name": "Gjilan", "scope": "Traffic and pedestrian signs" },
+          { "name": "Mitrovica", "scope": "Road marking and signage" },
+          { "name": "Ferizaj", "scope": "Municipal wayfinding" }
+        ]
+      },
+      {
+        "id": "companies",
+        "label": "Companies",
+        "items": [
+          { "name": "Raiffeisen Bank Kosovo", "scope": "Branch signage network" },
+          { "name": "ProCredit Bank", "scope": "Facade and interior signage" },
+          { "name": "Meridian Express", "scope": "Fleet and outlet branding" },
+          { "name": "City Mall Prishtina", "scope": "Wayfinding and tenant signs" },
+          { "name": "Beni Commerce", "scope": "Advertising and branding" },
+          { "name": "Albi Mall", "scope": "Interior navigation system" }
+        ]
+      },
+      {
+        "id": "government",
+        "label": "Government",
+        "items": [
+          { "name": "Ministry of Infrastructure", "scope": "National road signage" },
+          { "name": "Kosovo Road Authority", "scope": "Highway sign installation" },
+          { "name": "Ministry of Education", "scope": "Institution signage" },
+          { "name": "Kosovo Police", "scope": "Facility identification signs" },
+          { "name": "Ministry of Health", "scope": "Hospital wayfinding" },
+          { "name": "Customs of Kosovo", "scope": "Border crossing signage" }
+        ]
+      }
+    ]
+  },
+  "numbers": {
+    "label": "TSR in numbers",
+    "title": "Since 1999.",
+    "stats": [
+      { "value": "25+", "label": "Years in operation" },
+      { "value": "1200+", "label": "Projects completed" },
+      { "value": "38", "label": "Municipalities served" },
+      { "value": "4000+", "label": "Signs installed" }
+    ]
+  },
+  "footer": {
+    "addressTitle": "Address",
+    "addressLines": ["Industrial Zone", "Prishtina, Kosovo"],
+    "contactTitle": "Contact",
+    "phone": "+383 44 000 000",
+    "email": "info@tsr-ks.com",
+    "workingHours": "Monday - Friday, 08:00 - 17:00",
+    "copyright": "Copyright 2026 TSR LLC"
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get in touch",
+      "title": "Contact"
+    },
+    "types": [
+      {
+        "id": "general",
+        "label": "General inquiry",
+        "description": "Questions about TSR, partnerships, or general information.",
+        "hint": "Mention \"General\" in your subject line."
+      },
+      {
+        "id": "projects",
+        "label": "Projects",
+        "description": "New project requests, quotes, and site visits.",
+        "hint": "Include your municipality or company name."
+      }
+    ],
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "reveal": "Reveal",
+    "hide": "Hide",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "sendEmail": "Send email",
+    "call": "Call",
+    "addressLabel": "Address",
+    "hoursLabel": "Working hours",
+    "hoursValue": "Monday \u2013 Friday, 08:00 \u2013 17:00"
+  }
+}
