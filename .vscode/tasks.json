@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "compress-road-2-mp4-vp9-opus",
+			"type": "shell",
+			"command": "bash",
+			"args": [
+				"-lc",
+				"cd media/video-2 && ffmpeg -y -i road-2.mp4 -c:v libvpx-vp9 -c:a libopus road-2.tmp.mp4 && mv -f road-2.tmp.mp4 road-2.mp4"
+			]
+		},
+		{
+			"label": "probe-road-2-mp4",
+			"type": "shell",
+			"command": "bash",
+			"args": [
+				"-lc",
+				"cd media/video-2 && ffprobe -v error -show_entries stream=index,codec_name,codec_type -show_format=filename,format_name,duration,size,bit_rate road-2.mp4"
+			]
+		},
+		{
+			"label": "probe-road-2-mp4-fixed",
+			"type": "shell",
+			"command": "bash",
+			"args": [
+				"-lc",
+				"cd media/video-2 && ffprobe -v error -show_entries stream=index,codec_name,codec_type:format=filename,format_name,duration,size,bit_rate road-2.mp4"
+			]
+		}
+	]
+}
