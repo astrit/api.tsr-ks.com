@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "TSR",
-    "fullName": "Traffic Signage and Advertising",
+    "fullName": "Plates, Signage and Advertising",
     "tagline": "Visual and signage solutions with professional standards"
   },
   "navigation": {
@@ -15,7 +15,7 @@
     "hero": {
       "eyebrow": "TSR LLC",
       "title": "Clear signage. Advertising that stands out.",
-      "description": "We design, produce, and install road signs, business wayfinding, and advertising materials for modern companies in Kosovo."
+      "description": "We design, produce and install road signage, vehicle license plates and advertising materials for municipalities and institutions in Kosovo and the region."
     },
     "ctaPrimary": "Explore services",
     "ctaSecondary": "Contact us",
@@ -40,25 +40,25 @@
   },
   "about": {
     "hero": {
-      "eyebrow": "Since 1999",
+      "eyebrow": "Since 2018",
       "title": "About TSR"
     },
-    "mission": "We make the built world easier to navigate. From road signs to storefronts, TSR has spent 25 years turning precise concepts into clear, lasting visual systems across Kosovo.",
+    "mission": "We make public space safer and easier to navigate. Since 2018, TSR has worked with municipalities and institutions across Kosovo — from road signage and vehicle license plates to street naming and fiber optic networks.",
     "story": [
-      "We work with institutions, businesses, and private projects.",
-      "Our approach is minimal, functional, and long-term.",
+      "We work with municipalities, public institutions and international partners.",
+      "Our approach is minimal, functional and long-term.",
       "From concept to final installation, everything comes from one team."
     ],
     "values": [
-      { "title": "Precision", "description": "Every measurement, cut, and placement held to tight tolerances — from design file to installed sign." },
+      { "title": "Precision", "description": "Every measurement, cut and placement held to tight tolerances — from design file to installed sign." },
       { "title": "Safety", "description": "We follow road and construction codes so signs protect and direct in equal measure." },
       { "title": "Durability", "description": "Materials chosen for years of reliable service, tested before they leave the workshop." },
       { "title": "Clarity", "description": "Straightforward communication from quote to handover — no surprises, no subcontractors." }
     ],
     "process": [
       { "step": "01", "title": "Design", "description": "Site visit, technical brief, documented concept. Every project is planned before a single cut is made." },
-      { "step": "02", "title": "Production", "description": "In-house manufacturing with reflective films, aluminum composites, and structural steel." },
-      { "step": "03", "title": "Installation", "description": "Our team handles on-site placement, alignment, and final documentation. No subcontractors." }
+      { "step": "02", "title": "Production", "description": "In-house manufacturing with reflective films, aluminum composites and structural steel." },
+      { "step": "03", "title": "Installation", "description": "Our team handles on-site placement, leveling and final documentation. No subcontractors." }
     ],
     "cta": "Start a project"
   },
@@ -70,27 +70,43 @@
     },
     "items": [
       {
-        "slug": "road-signage",
-        "title": "Road Signage",
-        "summary": "Road, orientation, and warning signs aligned with standards.",
+        "slug": "vehicle-plates",
+        "title": "Vehicle License Plates",
+        "summary": "Production of vehicle registration plates for Kosovo, Albania and North Macedonia.",
         "details": [
-          "Planning based on urban layouts and traffic requirements.",
-          "High-quality reflective layers for day and night visibility.",
-          "On-site installation with alignment control."
+          "The service is available for Kosovo, Albania and North Macedonia.",
+          "All accompanying machinery for vehicle license plate production is in service.",
+          "Produced to the technical specifications and safety standards of each country."
         ],
         "deliverables": [
-          "Reflective signs",
-          "Poles and structures",
-          "Technical documentation"
+          "Registration plates",
+          "Accompanying machinery",
+          "Reflective film"
+        ]
+      },
+      {
+        "slug": "road-signage",
+        "title": "Signage",
+        "summary": "Horizontal and vertical signage, traffic lights and road signs to standard.",
+        "details": [
+          "Horizontal signage: lane lines, pedestrian crossings and road markings.",
+          "Vertical signage: road, directional and warning signs with reflective film.",
+          "Installation and maintenance of traffic lights for urban intersections."
+        ],
+        "deliverables": [
+          "Horizontal signage",
+          "Vertical signage",
+          "Traffic lights",
+          "Poles and structures"
         ]
       },
       {
         "slug": "advertising-branding",
-        "title": "Advertising and Branding",
-        "summary": "Advertising solutions for facades, storefronts, and interior spaces.",
+        "title": "Advertising",
+        "summary": "Advertising solutions for facades, storefronts and interior spaces.",
         "details": [
-          "Visual identity design for stronger brand presence.",
-          "Material processing in PVC, alubond, and acrylic.",
+          "Visual identity design for a stronger brand presence.",
+          "Material processing in PVC, alubond and acrylic.",
           "Illuminated and non-illuminated installation by location."
         ],
         "deliverables": [
@@ -100,18 +116,84 @@
         ]
       },
       {
-        "slug": "business-wayfinding",
-        "title": "Business Wayfinding",
-        "summary": "Navigation systems for offices, malls, and institutions.",
+        "slug": "street-naming",
+        "title": "Street Naming",
+        "summary": "Street and square name signs, unified across the whole municipality.",
         "details": [
-          "Visitor movement planning for better orientation.",
-          "Indoor and outdoor information signage.",
-          "Modular production that scales with future growth."
+          "Unified design following the municipality's visual identity.",
+          "Made from weather- and UV-resistant materials.",
+          "Mounted on walls, poles or dedicated structures."
         ],
         "deliverables": [
-          "Wayfinding set",
-          "Office numbering",
-          "Information boards"
+          "Street name signs",
+          "Poles and brackets",
+          "Placement plan"
+        ]
+      },
+      {
+        "slug": "building-numbering",
+        "title": "Building and House Numbering",
+        "summary": "Number plates for buildings, apartments and houses, linked to municipal addresses.",
+        "details": [
+          "Systematic numbering coordinated with the municipal address register.",
+          "Plates readable day and night, with reflective material.",
+          "Fast on-site installation for entire neighborhoods."
+        ],
+        "deliverables": [
+          "Number plates",
+          "Apartment numbering",
+          "Installation register"
+        ]
+      },
+      {
+        "slug": "railway-infrastructure",
+        "title": "Railway Infrastructure Works",
+        "summary": "Signage and supporting works along railway lines and stations.",
+        "details": [
+          "Vertical and directional signage for lines, crossings and stations.",
+          "Field works in compliance with railway safety regulations.",
+          "Coordination with operators and responsible institutions."
+        ],
+        "deliverables": [
+          "Railway signage",
+          "Level crossings",
+          "Supporting works"
+        ]
+      },
+      {
+        "slug": "asphalt-products",
+        "title": "Asphalt Products",
+        "summary": "The full range of asphalt products, directly from German manufacturer DGA Dortmund.",
+        "details": [
+          "All asphalt products for road construction and maintenance.",
+          "Supply from the manufacturer and trading of DGA Dortmund products.",
+          "Technical advice on choosing and applying the right product."
+        ],
+        "deliverables": [
+          "Asphalt products",
+          "Joint filling and sealing",
+          "Road repair materials"
+        ],
+        "partner": {
+          "name": "DGA Dortmund",
+          "legalName": "Dortmunder Gußasphalt GmbH & Co. KG",
+          "logo": "",
+          "note": "TSR represents DGA Dortmund in the Balkans."
+        }
+      },
+      {
+        "slug": "fiber-optic",
+        "title": "5G Fiber Optic Network",
+        "summary": "Laying of fiber optic cables and infrastructure for 5G networks.",
+        "details": [
+          "Trenching and laying of ducts and fiber optic cables.",
+          "Infrastructure ready for 5G networks and high-speed internet.",
+          "Surface restoration and signage of road works."
+        ],
+        "deliverables": [
+          "Fiber optic cable",
+          "Trenching and ducts",
+          "Route documentation"
         ]
       }
     ]
@@ -136,7 +218,7 @@
       },
       {
         "name": "Footer",
-        "description": "Contact details, address, and animated globe decoration."
+        "description": "Contact details, address and animated globe decoration."
       }
     ]
   },
@@ -145,15 +227,18 @@
     "otherServices": "Other services",
     "story": "Story",
     "values": "Values",
+    "process": "Process",
+    "howWeWork": "How we work",
     "details": "Details",
     "deliverables": "Deliverables",
+    "partner": "Partner",
     "loading": "Loading content...",
     "contentError": "Content could not be loaded.",
     "notFoundTitle": "Page not found",
     "notFoundDescription": "The content you are trying to reach does not exist.",
     "backHome": "Back to homepage",
     "headerDocTitle": "Header Component",
-    "headerDocDescription": "Navigation, language switching, and theme toggle in a single top bar.",
+    "headerDocDescription": "Navigation, language switching and theme toggle in a single top bar.",
     "switchersDocTitle": "Switchers",
     "switchersDocDescription": "Reusable controls for changing language and light or dark mode.",
     "footerDocTitle": "Footer Component",
@@ -162,70 +247,65 @@
     "themeDark": "Dark"
   },
   "iso": {
-    "label": "Quality Certified",
+    "label": "Certified",
     "standard": "ISO 9001:2015",
-    "title": "Committed to quality at every stage.",
-    "body": "TSR operates under an ISO 9001:2015 certified quality management system. From initial design through production and on-site installation, every process is documented, audited, and held to international standards — ensuring consistent results and long-term reliability."
+    "title": "International standards at every step.",
+    "body": "TSR LLC operates under an integrated management system certified to international ISO standards for quality, environment, information security, road traffic safety and occupational health and safety. From design through production to on-site installation, every process is documented and audited.",
+    "issuerLabel": "Certified by",
+    "issuer": "AQScert",
+    "holder": "TSR SH.P.K",
+    "standards": [
+      { "code": "9001", "year": "2015", "name": "Quality management" },
+      { "code": "14001", "year": "2015", "name": "Environmental management" },
+      { "code": "27001", "year": "2022", "name": "Information security" },
+      { "code": "39001", "year": "2012", "name": "Road traffic safety" },
+      { "code": "45001", "year": "2018", "name": "Occupational health and safety" }
+    ]
   },
   "projects": {
-    "label": "Selected Work",
-    "title": "Projects across Kosovo.",
+    "label": "References",
+    "title": "Municipalities across Kosovo.",
+    "scopes": [
+      { "id": "traffic-lights", "label": "Traffic lights", "service": "road-signage" },
+      { "id": "signage", "label": "Horizontal and vertical signage", "service": "road-signage" },
+      { "id": "street-naming", "label": "Street naming", "service": "street-naming" },
+      { "id": "building-numbering", "label": "Building and apartment numbering", "service": "building-numbering" },
+      { "id": "fiber-optic", "label": "Fiber optic cable laying", "service": "fiber-optic" }
+    ],
     "categories": [
       {
         "id": "municipalities",
         "label": "Municipalities",
         "items": [
-          { "name": "Prishtina", "scope": "Road signage and wayfinding" },
-          { "name": "Prizren", "scope": "Urban traffic signage" },
-          { "name": "Peja", "scope": "Street orientation system" },
-          { "name": "Gjilan", "scope": "Traffic and pedestrian signs" },
-          { "name": "Mitrovica", "scope": "Road marking and signage" },
-          { "name": "Ferizaj", "scope": "Municipal wayfinding" }
-        ]
-      },
-      {
-        "id": "companies",
-        "label": "Companies",
-        "items": [
-          { "name": "Raiffeisen Bank Kosovo", "scope": "Branch signage network" },
-          { "name": "ProCredit Bank", "scope": "Facade and interior signage" },
-          { "name": "Meridian Express", "scope": "Fleet and outlet branding" },
-          { "name": "City Mall Prishtina", "scope": "Wayfinding and tenant signs" },
-          { "name": "Beni Commerce", "scope": "Advertising and branding" },
-          { "name": "Albi Mall", "scope": "Interior navigation system" }
-        ]
-      },
-      {
-        "id": "government",
-        "label": "Government",
-        "items": [
-          { "name": "Ministry of Infrastructure", "scope": "National road signage" },
-          { "name": "Kosovo Road Authority", "scope": "Highway sign installation" },
-          { "name": "Ministry of Education", "scope": "Institution signage" },
-          { "name": "Kosovo Police", "scope": "Facility identification signs" },
-          { "name": "Ministry of Health", "scope": "Hospital wayfinding" },
-          { "name": "Customs of Kosovo", "scope": "Border crossing signage" }
+          { "name": "Prishtina", "scope": "Traffic lights · Horizontal and vertical signage · Street naming · Building and apartment numbering", "scopes": ["traffic-lights", "signage", "street-naming", "building-numbering"] },
+          { "name": "Prizren", "scope": "Horizontal and vertical signage · Traffic lights", "scopes": ["signage", "traffic-lights"] },
+          { "name": "Kamenica", "scope": "Horizontal and vertical signage", "scopes": ["signage"] },
+          { "name": "Lipjan", "scope": "Horizontal and vertical signage", "scopes": ["signage"] },
+          { "name": "Fushë Kosova", "scope": "Horizontal and vertical signage", "scopes": ["signage"] },
+          { "name": "Obiliq", "scope": "Horizontal and vertical signage", "scopes": ["signage"] },
+          { "name": "Gjakova", "scope": "Horizontal and vertical signage · Fiber optic cable laying", "scopes": ["signage", "fiber-optic"] },
+          { "name": "Peja", "scope": "Horizontal and vertical signage · Fiber optic cable laying", "scopes": ["signage", "fiber-optic"] }
         ]
       }
     ]
   },
   "numbers": {
     "label": "TSR in numbers",
-    "title": "Since 1999.",
+    "title": "Since 2018.",
     "stats": [
-      { "value": "25+", "label": "Years in operation" },
+      { "value": "2018", "label": "Year founded" },
+      { "value": "8", "label": "Municipalities served" },
       { "value": "1200+", "label": "Projects completed" },
-      { "value": "38", "label": "Municipalities served" },
       { "value": "4000+", "label": "Signs installed" }
     ]
   },
   "footer": {
     "addressTitle": "Address",
-    "addressLines": ["Industrial Zone", "Prishtina, Kosovo"],
+    "addressLines": ["Rr. Fehmi Lladrovci", "12000 Fushë Kosovë, Kosovo"],
     "contactTitle": "Contact",
-    "phone": "+383 44 000 000",
+    "phone": "+383 44 51 74 28",
     "email": "info@tsr-ks.com",
-    "workingHours": "Monday - Friday, 08:00 - 17:00",
+    "workingHours": "Monday – Friday, 08:00 – 17:00",
     "copyright": "Copyright 2026 TSR LLC"
   },
   "contact": {
@@ -237,14 +317,14 @@
       {
         "id": "general",
         "label": "General inquiry",
-        "description": "Questions about TSR, partnerships, or general information.",
+        "description": "Questions about TSR, partnerships or general information.",
         "hint": "Mention \"General\" in your subject line."
       },
       {
         "id": "projects",
         "label": "Projects",
-        "description": "New project requests, quotes, and site visits.",
-        "hint": "Include your municipality or company name."
+        "description": "New project requests, quotes and site visits.",
+        "hint": "Include your municipality or institution name."
       }
     ],
     "emailLabel": "Email",
@@ -257,6 +337,6 @@
     "call": "Call",
     "addressLabel": "Address",
     "hoursLabel": "Working hours",
-    "hoursValue": "Monday \u2013 Friday, 08:00 \u2013 17:00"
+    "hoursValue": "Monday – Friday, 08:00 – 17:00"
   }
 }

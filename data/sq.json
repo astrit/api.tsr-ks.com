@@ -1,231 +1,311 @@
 {
   "site": {
     "name": "TSR",
-    "fullName": "Targa Sinjalizim dhe Reklama",
+    "fullName": "Targa, Sinjalizim dhe Reklama",
     "tagline": "Zgjidhje vizuale dhe sinjalizuese me standard profesional"
   },
   "navigation": {
     "home": "Ballina",
-    "services": "Sherbimet",
-    "about": "Rreth Nesh",
-    "design": "Design",
+    "services": "Shërbimet",
+    "about": "Rreth nesh",
+    "design": "Dizajni",
     "contact": "Kontakt"
   },
   "home": {
     "hero": {
       "eyebrow": "TSR SH.P.K",
-      "title": "Sinjalizim i qarte. Reklama qe duket.",
-      "description": "Ne projektojme, prodhojme dhe montojme tabela rrugore, sinjalistike biznesi dhe materiale reklamuese per kompani moderne ne Kosove."
+      "title": "Sinjalizim i qartë. Reklama që duket.",
+      "description": "Ne projektojmë, prodhojmë dhe montojmë sinjalizim rrugor, targa automjetesh dhe materiale reklamuese për komuna dhe institucione në Kosovë dhe në rajon."
     },
-    "ctaPrimary": "Shiko sherbimet",
+    "ctaPrimary": "Shiko shërbimet",
     "ctaSecondary": "Na kontakto",
     "signGrid": {
       "line1": "Shenja që tërheqin vëmendjen.",
-      "line2": "Ndërtuar për rrugë që nuk flejnë kurrë."
+      "line2": "Ndërtuar për rrugë që nuk flenë kurrë."
     },
     "highlights": [
       {
         "title": "Projektim",
-        "description": "Koncept i qarte vizual dhe teknik para prodhimit."
+        "description": "Koncept i qartë vizual dhe teknik para prodhimit."
       },
       {
         "title": "Prodhim",
-        "description": "Punim preciz me materiale te qendrueshme dhe standarde sigurie."
+        "description": "Punim preciz me materiale të qëndrueshme dhe standarde sigurie."
       },
       {
         "title": "Montim",
-        "description": "Ekip i organizuar per instalim te paster dhe te sigurt."
+        "description": "Ekip i organizuar për instalim të pastër dhe të sigurt."
       }
     ]
   },
   "about": {
     "hero": {
-      "eyebrow": "Qe nga 1999",
+      "eyebrow": "Që nga 2018",
       "title": "Rreth TSR"
     },
-    "mission": "Ne e bejme boten e ndertuar me te lehte per t'u naviguar. Nga tabelat rrugore deri te vitrinat, TSR ka shpenzuar 25 vjet duke kthyer koncepte ne sisteme vizuale te qarta dhe te qendrueshme ne te gjithe Kosoven.",
+    "mission": "Ne e bëjmë hapësirën publike më të sigurt dhe më të lehtë për t'u orientuar. Që nga viti 2018, TSR punon me komuna dhe institucione në gjithë Kosovën — nga sinjalizimi rrugor dhe targat e automjeteve deri te emërtimi i rrugëve dhe rrjeti optik.",
     "story": [
-      "Punojme me institucione, biznese dhe projekte private.",
-      "Qasja jone eshte minimale, funksionale dhe afatgjate.",
-      "Nga ideja deri te montimi final, gjithcka vjen nga nje ekip i vetem."
+      "Punojmë me komuna, institucione publike dhe partnerë ndërkombëtarë.",
+      "Qasja jonë është minimale, funksionale dhe afatgjatë.",
+      "Nga ideja deri te montimi final, gjithçka vjen nga një ekip i vetëm."
     ],
     "values": [
-      { "title": "Saktesi", "description": "Cdo matje, prerje dhe pozicionim mbahet ne toleranca te ngushta — nga skedari i projektimit deri te tabela e instaluar." },
-      { "title": "Siguri", "description": "Ne ndjekim kodet rrugore dhe te ndertimit ne menyre qe tabelat te mbrojne dhe orientojne ne menyre te barabarte." },
-      { "title": "Qendrueshmeri", "description": "Materiale te zgjedhura per sherbim te besueshme per vite, te testuara para se te lene punishten." },
-      { "title": "Qartesi", "description": "Komunikim i drejperdrejte nga ofertat deri te dorezimi — pa surpriza, pa nenkontraktues." }
+      { "title": "Saktësi", "description": "Çdo matje, prerje dhe pozicionim mbahet në toleranca të ngushta — nga skedari i projektimit deri te tabela e instaluar." },
+      { "title": "Siguri", "description": "Ne ndjekim kodet rrugore dhe të ndërtimit, në mënyrë që tabelat të mbrojnë dhe të orientojnë njëkohësisht." },
+      { "title": "Qëndrueshmëri", "description": "Materiale të zgjedhura për shërbim të besueshëm për vite, të testuara para se të dalin nga punëtoria." },
+      { "title": "Qartësi", "description": "Komunikim i drejtpërdrejtë nga oferta deri te dorëzimi — pa surpriza, pa nënkontraktues." }
     ],
     "process": [
-      { "step": "01", "title": "Projektim", "description": "Vizite ne terren, brief teknik, koncept i dokumentuar. Cdo projekt planifikohet para cdo prerje." },
-      { "step": "02", "title": "Prodhim", "description": "Prodhim brenda kompanise me filma reflektues, kompozite alumini dhe celik konstruktiv." },
-      { "step": "03", "title": "Montim", "description": "Ekipi yne merret me pozicionimin, nivelin dhe dokumentimin final ne terren. Pa nenkontraktues." }
+      { "step": "01", "title": "Projektim", "description": "Vizitë në terren, detyrë projektuese teknike, koncept i dokumentuar. Çdo projekt planifikohet para prerjes së parë." },
+      { "step": "02", "title": "Prodhim", "description": "Prodhim brenda kompanisë me filma reflektues, kompozitë alumini dhe çelik konstruktiv." },
+      { "step": "03", "title": "Montim", "description": "Ekipi ynë merret me pozicionimin, nivelimin dhe dokumentimin final në terren. Pa nënkontraktues." }
     ],
-    "cta": "Fillo nje projekt"
+    "cta": "Fillo një projekt"
   },
   "services": {
     "hero": {
-      "eyebrow": "Cfare bejme",
-      "title": "Sherbimet tona",
-      "description": "Zgjidhje te plota nga projektimi deri te dorezimi ne terren."
+      "eyebrow": "Çfarë bëjmë",
+      "title": "Shërbimet tona",
+      "description": "Zgjidhje të plota nga projektimi deri te dorëzimi në terren."
     },
     "items": [
       {
-        "slug": "road-signage",
-        "title": "Sinjalistika Rrugore",
-        "summary": "Tabela rrugore, orientuese dhe paralajmeruese sipas standardeve.",
+        "slug": "vehicle-plates",
+        "title": "Targa të automjeteve",
+        "summary": "Prodhim i targave të regjistrimit për automjete në Kosovë, Shqipëri dhe Maqedoninë e Veriut.",
         "details": [
-          "Projektim sipas planit urban dhe nevojave te trafikut.",
-          "Perdorim i reflektiviteteve cilesore per dukshmeri naten dhe diten.",
-          "Montim ne terren me kontroll te pozicionimit."
+          "Shërbimi ofrohet për Kosovën, Shqipërinë dhe Maqedoninë e Veriut.",
+          "Në shërbim janë të gjitha makineritë përcjellëse për prodhimin e targave të automjeteve.",
+          "Prodhim sipas specifikave teknike dhe standardeve të sigurisë të secilit shtet."
         ],
         "deliverables": [
-          "Tabela reflektuese",
-          "Shtylla dhe konstruksione",
-          "Dokumentim teknik"
+          "Targa regjistrimi",
+          "Makineri përcjellëse",
+          "Film reflektues"
+        ]
+      },
+      {
+        "slug": "road-signage",
+        "title": "Sinjalizim",
+        "summary": "Sinjalizim horizontal dhe vertikal, semaforë dhe tabela rrugore sipas standardeve.",
+        "details": [
+          "Sinjalizim horizontal: vija, kalime për këmbësorë dhe shenja në asfalt.",
+          "Sinjalizim vertikal: tabela rrugore, orientuese dhe paralajmëruese me film reflektues.",
+          "Instalim dhe mirëmbajtje e semaforëve për kryqëzime urbane."
+        ],
+        "deliverables": [
+          "Sinjalizim horizontal",
+          "Sinjalizim vertikal",
+          "Semaforë",
+          "Shtylla dhe konstruksione"
         ]
       },
       {
         "slug": "advertising-branding",
-        "title": "Reklama dhe Brandim",
-        "summary": "Zgjidhje reklamuese per fasada, vitrina dhe hapesira te brendshme.",
+        "title": "Reklama",
+        "summary": "Zgjidhje reklamuese për fasada, vitrina dhe hapësira të brendshme.",
         "details": [
-          "Dizajn i identitetit vizual per prezence me te forte te markes.",
-          "Perpunim i materialeve nga PVC, alubond dhe akrilik.",
-          "Instalim i ndricuar dhe jo i ndricuar sipas lokacionit."
+          "Dizajn i identitetit vizual për prezencë më të fortë të markës.",
+          "Përpunim i materialeve nga PVC, alubond dhe akrilik.",
+          "Instalim i ndriçuar dhe jo i ndriçuar sipas lokacionit."
         ],
         "deliverables": [
           "Tabela reklamuese",
           "Veshje vitrinash",
-          "Elemente 3D te logos"
+          "Elemente 3D të logos"
         ]
       },
       {
-        "slug": "business-wayfinding",
-        "title": "Sinjalizim Biznesi",
-        "summary": "Sisteme orientuese per zyra, qendra tregtare dhe institucione.",
+        "slug": "street-naming",
+        "title": "Emërtime të rrugëve",
+        "summary": "Tabela me emra rrugësh dhe sheshesh, të unifikuara për gjithë komunën.",
         "details": [
-          "Planifikim i rrjedhes se levizjes per vizitoret.",
-          "Tabela informative te brendshme dhe te jashtme.",
-          "Prodhim modular per zgjerim te lehte ne te ardhmen."
+          "Dizajn i unifikuar sipas identitetit vizual të komunës.",
+          "Prodhim nga materiale rezistente ndaj motit dhe rrezeve UV.",
+          "Montim në mure, shtylla ose konstruksione të dedikuara."
         ],
         "deliverables": [
-          "Wayfinding set",
-          "Numerim zyrash",
-          "Tabela informacioni"
+          "Tabela emërtimi",
+          "Shtylla dhe mbajtëse",
+          "Plan i vendosjes"
+        ]
+      },
+      {
+        "slug": "building-numbering",
+        "title": "Numërtim i objekteve dhe shtëpive",
+        "summary": "Tabela numërtimi për objekte, banesa dhe shtëpi, të lidhura me adresat e komunës.",
+        "details": [
+          "Numërtim sistematik në koordinim me regjistrin e adresave të komunës.",
+          "Tabela të lexueshme ditën dhe natën, me material reflektues.",
+          "Instalim i shpejtë në terren për lagje të tëra."
+        ],
+        "deliverables": [
+          "Tabela numërtimi",
+          "Numërtim banesash",
+          "Regjistër i instalimeve"
+        ]
+      },
+      {
+        "slug": "railway-infrastructure",
+        "title": "Punime në infrastrukturën hekurudhore",
+        "summary": "Sinjalizim dhe punime mbështetëse përgjatë linjave dhe stacioneve hekurudhore.",
+        "details": [
+          "Sinjalizim vertikal dhe orientues për linja, kalime dhe stacione.",
+          "Punime në terren në përputhje me rregullat e sigurisë hekurudhore.",
+          "Koordinim me operatorët dhe institucionet përgjegjëse."
+        ],
+        "deliverables": [
+          "Sinjalizim hekurudhor",
+          "Kalime në nivel",
+          "Punime mbështetëse"
+        ]
+      },
+      {
+        "slug": "asphalt-products",
+        "title": "Produkte të asfaltit",
+        "summary": "Të gjitha produktet e asfaltit, direkt nga prodhuesi gjerman DGA Dortmund.",
+        "details": [
+          "Të gjitha produktet e asfaltit për ndërtim dhe mirëmbajtje të rrugëve.",
+          "Furnizim nga prodhuesi dhe shitblerje e produkteve të prodhuesit DGA Dortmund.",
+          "Këshillim teknik për zgjedhjen dhe aplikimin e produktit të duhur."
+        ],
+        "deliverables": [
+          "Produkte të asfaltit",
+          "Mbushje dhe izolim fugash",
+          "Materiale për riparim rrugësh"
+        ],
+        "partner": {
+          "name": "DGA Dortmund",
+          "legalName": "Dortmunder Gußasphalt GmbH & Co. KG",
+          "logo": "",
+          "note": "TSR përfaqëson kompaninë DGA Dortmund në Ballkan."
+        }
+      },
+      {
+        "slug": "fiber-optic",
+        "title": "Shtrirje e rrjetit optik 5G",
+        "summary": "Shtrirje e kabllove optike dhe infrastrukturës për rrjete 5G.",
+        "details": [
+          "Hapje kanalesh dhe shtrirje e tubave dhe kabllove optike.",
+          "Infrastrukturë e gatshme për rrjete 5G dhe internet me shpejtësi të lartë.",
+          "Rikthim i sipërfaqes dhe sinjalizim i punimeve në rrugë."
+        ],
+        "deliverables": [
+          "Kabllo optike",
+          "Kanalizim dhe tuba",
+          "Dokumentim i trasesë"
         ]
       }
     ]
   },
   "design": {
     "hero": {
-      "title": "Sistemi i Dizajnit TSR",
-      "description": "Komponentet baze qe perdoren ne tera faqet, me dokumentim te qarte per perdorim."
+      "title": "Sistemi i dizajnit TSR",
+      "description": "Komponentët bazë që përdoren në të gjitha faqet, me dokumentim të qartë për përdorim."
     },
     "sections": [
       {
         "name": "Header",
-        "description": "Navigim i thjeshte me nderrues te gjuhes dhe temes."
+        "description": "Navigim i thjeshtë me ndërrues të gjuhës dhe temës."
       },
       {
         "name": "Hero",
-        "description": "Bllok i gjate me titull dhe pershkrim kryesor."
+        "description": "Bllok i gjatë me titull dhe përshkrim kryesor."
       },
       {
         "name": "Content Block",
-        "description": "Kartele e paster per informata te strukturuara."
+        "description": "Kartelë e pastër për informata të strukturuara."
       },
       {
         "name": "Footer",
-        "description": "Kontakt, adrese dhe glob animues dekorativ."
+        "description": "Kontakt, adresë dhe glob animues dekorativ."
       }
     ]
   },
   "ui": {
-    "openService": "Hape sherbimin",
-    "otherServices": "Sherbimet e tjera",
+    "openService": "Hape shërbimin",
+    "otherServices": "Shërbimet e tjera",
     "story": "Historia",
     "values": "Vlerat",
+    "process": "Procesi",
+    "howWeWork": "Si punojmë",
     "details": "Detajet",
-    "deliverables": "Dorrezimet",
-    "loading": "Duke ngarkuar permbajtjen...",
-    "contentError": "Permbajtja nuk mund te ngarkohet.",
+    "deliverables": "Çfarë dorëzojmë",
+    "partner": "Partneri",
+    "loading": "Duke ngarkuar përmbajtjen...",
+    "contentError": "Përmbajtja nuk mund të ngarkohet.",
     "notFoundTitle": "Faqja nuk u gjet",
-    "notFoundDescription": "Permbajtja qe po kerkoni nuk ekziston.",
-    "backHome": "Kthehu ne balline",
+    "notFoundDescription": "Përmbajtja që po kërkoni nuk ekziston.",
+    "backHome": "Kthehu në ballinë",
     "headerDocTitle": "Komponenti Header",
-    "headerDocDescription": "Navigim, nderrim gjuhe dhe nderrim teme ne nje shirit.",
-    "switchersDocTitle": "Nderruesit",
-    "switchersDocDescription": "Kontrolle te riperdorshme per gjuhe dhe mode te drites.",
+    "headerDocDescription": "Navigim, ndërrim gjuhe dhe ndërrim teme në një shirit.",
+    "switchersDocTitle": "Ndërruesit",
+    "switchersDocDescription": "Kontrolle të ripërdorshme për gjuhën dhe modalitetin e dritës.",
     "footerDocTitle": "Komponenti Footer",
-    "footerDocDescription": "Footer i thjeshte me kontaktet nga JSON.",
-    "themeLight": "Drite",
-    "themeDark": "Erresire"
+    "footerDocDescription": "Footer i thjeshtë me kontaktet nga JSON.",
+    "themeLight": "Dritë",
+    "themeDark": "Errësirë"
   },
   "iso": {
-    "label": "I Certifikuar per Cilesine",
+    "label": "Të certifikuar",
     "standard": "ISO 9001:2015",
-    "title": "Cilesie ne cdo hap te procesit.",
-    "body": "TSR operon nen nje sistem te menaxhimit te cilesise te certifikuar sipas ISO 9001:2015. Nga projektimi fillestar, permes prodhimit dhe deri ne instalimin ne terren, cdo proces eshte i dokumentuar, i audituar dhe i mbajtur ne standarde nderkombetare — duke garantuar rezultate te qendrueshme dhe besueshmeri afatgjate."
+    "title": "Standarde ndërkombëtare në çdo hap.",
+    "body": "TSR SH.P.K operon nën një sistem të integruar menaxhimi, të certifikuar sipas standardeve ndërkombëtare ISO për cilësi, mjedis, siguri të informacionit, siguri në trafikun rrugor dhe shëndet e siguri në punë. Nga projektimi, përmes prodhimit e deri te instalimi në terren, çdo proces është i dokumentuar dhe i audituar.",
+    "issuerLabel": "Certifikuar nga",
+    "issuer": "AQScert",
+    "holder": "TSR SH.P.K",
+    "standards": [
+      { "code": "9001", "year": "2015", "name": "Menaxhimi i cilësisë" },
+      { "code": "14001", "year": "2015", "name": "Menaxhimi mjedisor" },
+      { "code": "27001", "year": "2022", "name": "Siguria e informacionit" },
+      { "code": "39001", "year": "2012", "name": "Siguria në trafikun rrugor" },
+      { "code": "45001", "year": "2018", "name": "Shëndeti dhe siguria në punë" }
+    ]
   },
   "projects": {
-    "label": "Pune te Zgjedhura",
-    "title": "Projekte ne gjithe Kosoven.",
+    "label": "Referencat",
+    "title": "Komuna në gjithë Kosovën.",
+    "scopes": [
+      { "id": "traffic-lights", "label": "Semaforë", "service": "road-signage" },
+      { "id": "signage", "label": "Sinjalizim horizontal dhe vertikal", "service": "road-signage" },
+      { "id": "street-naming", "label": "Emërtime të rrugëve", "service": "street-naming" },
+      { "id": "building-numbering", "label": "Numërtim i objekteve dhe banesave", "service": "building-numbering" },
+      { "id": "fiber-optic", "label": "Shtrirje e kabllos optike", "service": "fiber-optic" }
+    ],
     "categories": [
       {
         "id": "municipalities",
         "label": "Komunat",
         "items": [
-          { "name": "Prishtina", "scope": "Sinjalizim rrugor dhe orientues" },
-          { "name": "Prizreni", "scope": "Sinjalizim urban i trafikut" },
-          { "name": "Peja", "scope": "Sistemi i orientimit rrugor" },
-          { "name": "Gjilani", "scope": "Tabela trafiku dhe kembesoresh" },
-          { "name": "Mitrovica", "scope": "Shenjezim dhe sinjalizim rrugor" },
-          { "name": "Ferizaji", "scope": "Sistem orientues komunal" }
-        ]
-      },
-      {
-        "id": "companies",
-        "label": "Kompanite",
-        "items": [
-          { "name": "Raiffeisen Bank Kosove", "scope": "Rrjet sinjalizimi per dege" },
-          { "name": "ProCredit Bank", "scope": "Sinjalizim fasade dhe brendasore" },
-          { "name": "Meridian Express", "scope": "Branding i flotiljes dhe nenjesive" },
-          { "name": "City Mall Prishtina", "scope": "Sistem orientues dhe tabela" },
-          { "name": "Beni Commerce", "scope": "Reklamim dhe branding" },
-          { "name": "Albi Mall", "scope": "Sistem navigimi brendasore" }
-        ]
-      },
-      {
-        "id": "government",
-        "label": "Qeveria",
-        "items": [
-          { "name": "Ministria e Infrastruktures", "scope": "Sinjalizim rrugor kombetar" },
-          { "name": "Autoriteti Rrugor i Kosoves", "scope": "Instalim tabelash autostradale" },
-          { "name": "Ministria e Arsimit", "scope": "Sinjalizim institucionesh" },
-          { "name": "Policia e Kosoves", "scope": "Tabela identifikimi objektesh" },
-          { "name": "Ministria e Shendetesise", "scope": "Sistem orientues spitalor" },
-          { "name": "Dogana e Kosoves", "scope": "Sinjalizim kufitar" }
+          { "name": "Prishtinë", "scope": "Semaforë · Sinjalizim horizontal dhe vertikal · Emërtime të rrugëve · Numërtim i objekteve dhe banesave", "scopes": ["traffic-lights", "signage", "street-naming", "building-numbering"] },
+          { "name": "Prizren", "scope": "Sinjalizim horizontal dhe vertikal · Semaforë", "scopes": ["signage", "traffic-lights"] },
+          { "name": "Kamenicë", "scope": "Sinjalizim horizontal dhe vertikal", "scopes": ["signage"] },
+          { "name": "Lipjan", "scope": "Sinjalizim horizontal dhe vertikal", "scopes": ["signage"] },
+          { "name": "Fushë Kosovë", "scope": "Sinjalizim horizontal dhe vertikal", "scopes": ["signage"] },
+          { "name": "Obiliq", "scope": "Sinjalizim horizontal dhe vertikal", "scopes": ["signage"] },
+          { "name": "Gjakovë", "scope": "Sinjalizim horizontal dhe vertikal · Shtrirje e kabllos optike", "scopes": ["signage", "fiber-optic"] },
+          { "name": "Pejë", "scope": "Sinjalizim horizontal dhe vertikal · Shtrirje e kabllos optike", "scopes": ["signage", "fiber-optic"] }
         ]
       }
     ]
   },
   "numbers": {
-    "label": "TSR ne numra",
-    "title": "Qe nga viti 1999.",
+    "label": "TSR në numra",
+    "title": "Që nga viti 2018.",
     "stats": [
-      { "value": "25+", "label": "Vjet ne operim" },
-      { "value": "1200+", "label": "Projekte te perfunduara" },
-      { "value": "38", "label": "Komuna te sherbyer" },
-      { "value": "4000+", "label": "Tabela te instaluara" }
+      { "value": "2018", "label": "Viti i themelimit" },
+      { "value": "8", "label": "Komuna të shërbyera" },
+      { "value": "1200+", "label": "Projekte të përfunduara" },
+      { "value": "4000+", "label": "Tabela të instaluara" }
     ]
   },
   "footer": {
     "addressTitle": "Adresa",
-    "addressLines": ["Zona Industriale", "Prishtine, Kosove"],
+    "addressLines": ["Rr. Fehmi Lladrovci", "12000 Fushë Kosovë, Kosovë"],
     "contactTitle": "Kontakt",
-    "phone": "+383 44 000 000",
+    "phone": "+383 44 51 74 28",
     "email": "info@tsr-ks.com",
-    "workingHours": "Hene - Premte, 08:00 - 17:00",
+    "workingHours": "E hënë – E premte, 08:00 – 17:00",
     "copyright": "Copyright 2026 TSR SH.P.K"
   },
   "contact": {
@@ -236,15 +316,15 @@
     "types": [
       {
         "id": "general",
-        "label": "Kerkese e pergjithshme",
-        "description": "Pyetje rreth TSR, partneriteteve ose informacioneve te pergjithshme.",
-        "hint": "Permend \"E pergjithshme\" ne rreshtin e temave."
+        "label": "Kërkesë e përgjithshme",
+        "description": "Pyetje rreth TSR, partneriteteve ose informacioneve të përgjithshme.",
+        "hint": "Përmendni \"E përgjithshme\" në rreshtin e temës."
       },
       {
         "id": "projects",
         "label": "Projekte",
-        "description": "Kerkesa per projekte te reja, oferta dhe vizita ne terren.",
-        "hint": "Perfshi emrin e komunitetit ose kompanise."
+        "description": "Kërkesa për projekte të reja, oferta dhe vizita në terren.",
+        "hint": "Përfshini emrin e komunës ose të institucionit."
       }
     ],
     "emailLabel": "Email",
@@ -252,11 +332,11 @@
     "reveal": "Zbulo",
     "hide": "Fshih",
     "copy": "Kopjo",
-    "copied": "Kopjuar!",
-    "sendEmail": "Dergo email",
+    "copied": "U kopjua!",
+    "sendEmail": "Dërgo email",
     "call": "Thirr",
     "addressLabel": "Adresa",
-    "hoursLabel": "Oret e punes",
-    "hoursValue": "Hene \u2013 Premte, 08:00 \u2013 17:00"
+    "hoursLabel": "Orari i punës",
+    "hoursValue": "E hënë – E premte, 08:00 – 17:00"
   }
 }

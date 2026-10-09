@@ -1,13 +1,13 @@
 {
   "site": {
     "name": "TSR",
-    "fullName": "Verkehrsbeschilderung und Werbung",
-    "tagline": "Visuelle und Beschilderungsloesungen mit professionellem Standard"
+    "fullName": "Kennzeichen, Beschilderung und Werbung",
+    "tagline": "Visuelle und Beschilderungslösungen mit professionellem Standard"
   },
   "navigation": {
     "home": "Start",
     "services": "Leistungen",
-    "about": "Ueber Uns",
+    "about": "Über uns",
     "design": "Design",
     "contact": "Kontakt"
   },
@@ -15,7 +15,7 @@
     "hero": {
       "eyebrow": "TSR GmbH",
       "title": "Klare Beschilderung. Werbung mit Wirkung.",
-      "description": "Wir planen, produzieren und montieren Verkehrsschilder, Unternehmensleitsysteme und Werbematerialien fuer moderne Unternehmen im Kosovo."
+      "description": "Wir planen, produzieren und montieren Verkehrsbeschilderung, Kfz-Kennzeichen und Werbematerialien für Gemeinden und Institutionen im Kosovo und in der Region."
     },
     "ctaPrimary": "Leistungen ansehen",
     "ctaSecondary": "Kontakt aufnehmen",
@@ -30,35 +30,35 @@
       },
       {
         "title": "Produktion",
-        "description": "Praezise Fertigung mit langlebigen Materialien und Sicherheitsstandards."
+        "description": "Präzise Fertigung mit langlebigen Materialien und Sicherheitsstandards."
       },
       {
         "title": "Montage",
-        "description": "Organisiertes Team fuer saubere und sichere Installation vor Ort."
+        "description": "Organisiertes Team für saubere und sichere Installation vor Ort."
       }
     ]
   },
   "about": {
     "hero": {
-      "eyebrow": "Seit 1999",
-      "title": "Ueber TSR"
+      "eyebrow": "Seit 2018",
+      "title": "Über TSR"
     },
-    "mission": "Wir machen die gebaute Welt leichter navigierbar. Von Verkehrsschildern bis zu Schaufenstern verwandelt TSR seit 25 Jahren Konzepte in klare, dauerhafte visuelle Systeme.",
+    "mission": "Wir machen den öffentlichen Raum sicherer und leichter navigierbar. Seit 2018 arbeitet TSR mit Gemeinden und Institutionen im ganzen Kosovo — von Verkehrsbeschilderung und Kfz-Kennzeichen bis zu Straßenbenennung und Glasfasernetzen.",
     "story": [
-      "Wir arbeiten mit Institutionen, Unternehmen und privaten Projekten.",
+      "Wir arbeiten mit Gemeinden, öffentlichen Institutionen und internationalen Partnern.",
       "Unser Ansatz ist minimal, funktional und langfristig.",
       "Von der Idee bis zur Endmontage kommt alles aus einem Team."
     ],
     "values": [
-      { "title": "Praezision", "description": "Jede Messung, jeder Schnitt und jede Positionierung wird auf enge Toleranzen eingehalten." },
-      { "title": "Sicherheit", "description": "Wir befolgen Strassen- und Baunormen, damit Schilder schuetzen und leiten." },
-      { "title": "Langlebigkeit", "description": "Materialien fuer jahrelangen Betrieb, geprueft bevor sie das Werk verlassen." },
-      { "title": "Klarheit", "description": "Direkte Kommunikation vom Angebot bis zur Uebergabe — keine Ueberraschungen, keine Subunternehmer." }
+      { "title": "Präzision", "description": "Jede Messung, jeder Schnitt und jede Positionierung wird auf enge Toleranzen eingehalten — von der Planungsdatei bis zum montierten Schild." },
+      { "title": "Sicherheit", "description": "Wir befolgen Straßen- und Baunormen, damit Schilder schützen und leiten." },
+      { "title": "Langlebigkeit", "description": "Materialien für jahrelangen Betrieb, geprüft, bevor sie das Werk verlassen." },
+      { "title": "Klarheit", "description": "Direkte Kommunikation vom Angebot bis zur Übergabe — keine Überraschungen, keine Subunternehmer." }
     ],
     "process": [
       { "step": "01", "title": "Planung", "description": "Ortsbegehung, technisches Briefing, dokumentiertes Konzept. Kein Schnitt ohne Plan." },
       { "step": "02", "title": "Produktion", "description": "Eigene Fertigung mit Reflexionsfolien, Aluminiumverbundwerkstoffen und Konstruktionsstahl." },
-      { "step": "03", "title": "Montage", "description": "Unser Team uebernimmt Platzierung, Ausrichtung und abschliessende Dokumentation vor Ort." }
+      { "step": "03", "title": "Montage", "description": "Unser Team übernimmt Platzierung, Ausrichtung und abschließende Dokumentation vor Ort. Keine Subunternehmer." }
     ],
     "cta": "Projekt starten"
   },
@@ -66,52 +66,134 @@
     "hero": {
       "eyebrow": "Was wir tun",
       "title": "Unsere Leistungen",
-      "description": "Komplette Loesungen von der Idee bis zur Umsetzung vor Ort."
+      "description": "Komplette Lösungen von der Idee bis zur Umsetzung vor Ort."
     },
     "items": [
       {
-        "slug": "road-signage",
-        "title": "Verkehrsbeschilderung",
-        "summary": "Verkehrs-, Orientierungs- und Warnschilder gemaess Standards.",
+        "slug": "vehicle-plates",
+        "title": "Kfz-Kennzeichen",
+        "summary": "Herstellung von Kfz-Kennzeichen für Kosovo, Albanien und Nordmazedonien.",
         "details": [
-          "Planung nach Stadtbild und Verkehrsanforderungen.",
-          "Hochwertige Reflexionsschichten fuer Sichtbarkeit bei Tag und Nacht.",
-          "Montage vor Ort mit Ausrichtungskontrolle."
+          "Die Leistung wird für Kosovo, Albanien und Nordmazedonien angeboten.",
+          "Alle begleitenden Maschinen für die Herstellung von Kfz-Kennzeichen sind im Einsatz.",
+          "Herstellung nach den technischen Vorgaben und Sicherheitsstandards des jeweiligen Landes."
         ],
         "deliverables": [
-          "Reflektierende Schilder",
-          "Masten und Konstruktionen",
-          "Technische Dokumentation"
+          "Kfz-Kennzeichen",
+          "Begleitende Maschinen",
+          "Reflexionsfolie"
+        ]
+      },
+      {
+        "slug": "road-signage",
+        "title": "Beschilderung",
+        "summary": "Horizontale und vertikale Verkehrszeichen, Ampelanlagen und Verkehrsschilder nach Norm.",
+        "details": [
+          "Horizontale Markierung: Fahrstreifen, Fußgängerüberwege und Fahrbahnmarkierungen.",
+          "Vertikale Beschilderung: Verkehrs-, Wegweiser- und Warnschilder mit Reflexionsfolie.",
+          "Installation und Wartung von Ampelanlagen für städtische Kreuzungen."
+        ],
+        "deliverables": [
+          "Horizontale Markierung",
+          "Vertikale Beschilderung",
+          "Ampelanlagen",
+          "Masten und Konstruktionen"
         ]
       },
       {
         "slug": "advertising-branding",
-        "title": "Werbung und Branding",
-        "summary": "Werbeloesungen fuer Fassaden, Schaufenster und Innenraeume.",
+        "title": "Werbung",
+        "summary": "Werbelösungen für Fassaden, Schaufenster und Innenräume.",
         "details": [
-          "Gestaltung der visuellen Identitaet fuer staerkere Markenpraesenz.",
-          "Materialbearbeitung aus PVC, Alubond und Acryl.",
+          "Gestaltung visueller Identität für einen stärkeren Markenauftritt.",
+          "Verarbeitung von PVC, Alubond und Acryl.",
           "Beleuchtete und unbeleuchtete Montage je nach Standort."
         ],
         "deliverables": [
           "Werbeschilder",
           "Schaufensterbeklebung",
-          "3D Logo Elemente"
+          "3D-Logo-Elemente"
         ]
       },
       {
-        "slug": "business-wayfinding",
-        "title": "Leit- und Orientierungssysteme",
-        "summary": "Navigationssysteme fuer Bueros, Einkaufszentren und Institutionen.",
+        "slug": "street-naming",
+        "title": "Straßenbenennung",
+        "summary": "Straßen- und Platznamensschilder, einheitlich für die gesamte Gemeinde.",
         "details": [
-          "Planung der Besucherbewegung fuer bessere Orientierung.",
-          "Informationsbeschilderung innen und aussen.",
-          "Modulare Produktion fuer einfache Erweiterung in der Zukunft."
+          "Einheitliches Design nach dem visuellen Erscheinungsbild der Gemeinde.",
+          "Herstellung aus witterungs- und UV-beständigen Materialien.",
+          "Montage an Wänden, Masten oder eigenen Konstruktionen."
         ],
         "deliverables": [
-          "Wayfinding Set",
-          "Buero Nummerierung",
-          "Informationstafeln"
+          "Straßennamensschilder",
+          "Masten und Halterungen",
+          "Platzierungsplan"
+        ]
+      },
+      {
+        "slug": "building-numbering",
+        "title": "Gebäude- und Hausnummerierung",
+        "summary": "Nummernschilder für Gebäude, Wohnungen und Häuser, verknüpft mit den Adressen der Gemeinde.",
+        "details": [
+          "Systematische Nummerierung in Abstimmung mit dem Adressregister der Gemeinde.",
+          "Schilder, die bei Tag und Nacht lesbar sind, mit reflektierendem Material.",
+          "Schnelle Montage vor Ort für ganze Stadtviertel."
+        ],
+        "deliverables": [
+          "Hausnummernschilder",
+          "Wohnungsnummerierung",
+          "Montageregister"
+        ]
+      },
+      {
+        "slug": "railway-infrastructure",
+        "title": "Arbeiten an der Bahninfrastruktur",
+        "summary": "Beschilderung und unterstützende Arbeiten entlang von Bahnstrecken und Bahnhöfen.",
+        "details": [
+          "Vertikale und wegweisende Beschilderung für Strecken, Übergänge und Bahnhöfe.",
+          "Arbeiten vor Ort gemäß den Sicherheitsvorschriften im Bahnbetrieb.",
+          "Abstimmung mit Betreibern und zuständigen Institutionen."
+        ],
+        "deliverables": [
+          "Bahnbeschilderung",
+          "Bahnübergänge",
+          "Unterstützende Arbeiten"
+        ]
+      },
+      {
+        "slug": "asphalt-products",
+        "title": "Asphaltprodukte",
+        "summary": "Das gesamte Sortiment an Asphaltprodukten, direkt vom deutschen Hersteller DGA Dortmund.",
+        "details": [
+          "Alle Asphaltprodukte für Straßenbau und -instandhaltung.",
+          "Lieferung ab Hersteller und Handel mit Produkten von DGA Dortmund.",
+          "Technische Beratung zur Auswahl und Anwendung des richtigen Produkts."
+        ],
+        "deliverables": [
+          "Asphaltprodukte",
+          "Fugenverguss und -abdichtung",
+          "Materialien für Straßenreparaturen"
+        ],
+        "partner": {
+          "name": "DGA Dortmund",
+          "legalName": "Dortmunder Gußasphalt GmbH & Co. KG",
+          "logo": "",
+          "note": "TSR vertritt DGA Dortmund auf dem Balkan."
+        }
+      },
+      {
+        "slug": "fiber-optic",
+        "title": "5G-Glasfasernetz",
+        "summary": "Verlegung von Glasfaserkabeln und Infrastruktur für 5G-Netze.",
+        "details": [
+          "Grabenarbeiten und Verlegung von Schutzrohren und Glasfaserkabeln.",
+          "Infrastruktur bereit für 5G-Netze und Hochgeschwindigkeitsinternet.",
+          "Wiederherstellung der Oberfläche und Beschilderung der Baustellen."
+        ],
+        "deliverables": [
+          "Glasfaserkabel",
+          "Tiefbau und Schutzrohre",
+          "Trassendokumentation"
         ]
       }
     ]
@@ -119,7 +201,7 @@
   "design": {
     "hero": {
       "title": "TSR Designsystem",
-      "description": "Grundkomponenten fuer alle Seiten mit klarer Dokumentation."
+      "description": "Grundkomponenten, die auf allen Seiten verwendet werden, mit klarer Dokumentation."
     },
     "sections": [
       {
@@ -128,104 +210,102 @@
       },
       {
         "name": "Hero",
-        "description": "Langer horizontaler Bereich fuer Titel und Kernbeschreibung."
+        "description": "Langer Bereich für Titel und Hauptbeschreibung."
       },
       {
         "name": "Content Block",
-        "description": "Saubere Karte fuer strukturierte Informationen."
+        "description": "Klare Karte für strukturierte Informationen."
       },
       {
         "name": "Footer",
-        "description": "Kontakt, Adresse und animierte Globus-Dekoration."
+        "description": "Kontakt, Adresse und animierter Globus als Dekoration."
       }
     ]
   },
   "ui": {
-    "openService": "Leistung oeffnen",
+    "openService": "Leistung öffnen",
     "otherServices": "Andere Leistungen",
     "story": "Geschichte",
     "values": "Werte",
+    "process": "Ablauf",
+    "howWeWork": "So arbeiten wir",
     "details": "Details",
     "deliverables": "Lieferumfang",
+    "partner": "Partner",
     "loading": "Inhalt wird geladen...",
     "contentError": "Inhalt konnte nicht geladen werden.",
     "notFoundTitle": "Seite nicht gefunden",
     "notFoundDescription": "Der gesuchte Inhalt existiert nicht.",
     "backHome": "Zur Startseite",
-    "headerDocTitle": "Header Komponente",
-    "headerDocDescription": "Navigation, Sprachwechsel und Theme Umschalter in einer Leiste.",
+    "headerDocTitle": "Header-Komponente",
+    "headerDocDescription": "Navigation, Sprachwechsel und Theme-Umschalter in einer Leiste.",
     "switchersDocTitle": "Umschalter",
-    "switchersDocDescription": "Wiederverwendbare Steuerelemente fuer Sprache und Hell/Dunkel Modus.",
-    "footerDocTitle": "Footer Komponente",
-    "footerDocDescription": "Einfacher Footer mit Kontaktdaten aus den JSON Dateien.",
+    "switchersDocDescription": "Wiederverwendbare Steuerelemente für Sprache und Hell-/Dunkelmodus.",
+    "footerDocTitle": "Footer-Komponente",
+    "footerDocDescription": "Einfacher Footer mit Kontaktdaten aus den JSON-Dateien.",
     "themeLight": "Hell",
     "themeDark": "Dunkel"
   },
   "iso": {
-    "label": "Qualitaetszertifiziert",
+    "label": "Zertifiziert",
     "standard": "ISO 9001:2015",
-    "title": "Qualitaet auf jeder Stufe.",
-    "body": "TSR arbeitet nach einem nach ISO 9001:2015 zertifizierten Qualitaetsmanagementsystem. Von der ersten Planung ueber die Produktion bis zur Montage vor Ort sind alle Prozesse dokumentiert, geprueft und an internationalen Standards ausgerichtet — fuer gleichbleibend hohe Ergebnisse und langfristige Zuverlaessigkeit."
+    "title": "Internationale Standards in jedem Schritt.",
+    "body": "Die TSR GmbH arbeitet nach einem integrierten Managementsystem, zertifiziert nach internationalen ISO-Normen für Qualität, Umwelt, Informationssicherheit, Straßenverkehrssicherheit sowie Arbeitsschutz. Von der Planung über die Produktion bis zur Montage vor Ort ist jeder Prozess dokumentiert und auditiert.",
+    "issuerLabel": "Zertifiziert durch",
+    "issuer": "AQScert",
+    "holder": "TSR SH.P.K",
+    "standards": [
+      { "code": "9001", "year": "2015", "name": "Qualitätsmanagement" },
+      { "code": "14001", "year": "2015", "name": "Umweltmanagement" },
+      { "code": "27001", "year": "2022", "name": "Informationssicherheit" },
+      { "code": "39001", "year": "2012", "name": "Straßenverkehrssicherheit" },
+      { "code": "45001", "year": "2018", "name": "Arbeitsschutz und Gesundheit" }
+    ]
   },
   "projects": {
-    "label": "Ausgewaehlte Arbeiten",
-    "title": "Projekte in ganz Kosovo.",
+    "label": "Referenzen",
+    "title": "Gemeinden im ganzen Kosovo.",
+    "scopes": [
+      { "id": "traffic-lights", "label": "Ampelanlagen", "service": "road-signage" },
+      { "id": "signage", "label": "Horizontale und vertikale Beschilderung", "service": "road-signage" },
+      { "id": "street-naming", "label": "Straßenbenennung", "service": "street-naming" },
+      { "id": "building-numbering", "label": "Gebäude- und Wohnungsnummerierung", "service": "building-numbering" },
+      { "id": "fiber-optic", "label": "Verlegung von Glasfaserkabeln", "service": "fiber-optic" }
+    ],
     "categories": [
       {
         "id": "municipalities",
         "label": "Gemeinden",
         "items": [
-          { "name": "Prishtina", "scope": "Strassenbeschilderung und Leitsystem" },
-          { "name": "Prizren", "scope": "Staedtische Verkehrsbeschilderung" },
-          { "name": "Peja", "scope": "Strassenorientierungssystem" },
-          { "name": "Gjilan", "scope": "Verkehrs- und Fussgaengerschilder" },
-          { "name": "Mitrovica", "scope": "Strassenmarkierung und Beschilderung" },
-          { "name": "Ferizaj", "scope": "Kommunales Leitsystem" }
-        ]
-      },
-      {
-        "id": "companies",
-        "label": "Unternehmen",
-        "items": [
-          { "name": "Raiffeisen Bank Kosovo", "scope": "Filialen-Beschilderungsnetz" },
-          { "name": "ProCredit Bank", "scope": "Fassaden- und Innenbeschilderung" },
-          { "name": "Meridian Express", "scope": "Flotten- und Filialbranding" },
-          { "name": "City Mall Prishtina", "scope": "Leitsystem und Mieterschilder" },
-          { "name": "Beni Commerce", "scope": "Werbung und Branding" },
-          { "name": "Albi Mall", "scope": "Innennavigationssystem" }
-        ]
-      },
-      {
-        "id": "government",
-        "label": "Behoerden",
-        "items": [
-          { "name": "Ministerium fuer Infrastruktur", "scope": "Nationale Strassenbeschilderung" },
-          { "name": "Kosovo Road Authority", "scope": "Autobahnschild-Installation" },
-          { "name": "Bildungsministerium", "scope": "Institutionsbeschilderung" },
-          { "name": "Kosovo Polizei", "scope": "Einrichtungsidentifikationsschilder" },
-          { "name": "Gesundheitsministerium", "scope": "Krankenhausleitsystem" },
-          { "name": "Zoll des Kosovo", "scope": "Grenzuebergangsbeschilderung" }
+          { "name": "Prishtina", "scope": "Ampelanlagen · Horizontale und vertikale Beschilderung · Straßenbenennung · Gebäude- und Wohnungsnummerierung", "scopes": ["traffic-lights", "signage", "street-naming", "building-numbering"] },
+          { "name": "Prizren", "scope": "Horizontale und vertikale Beschilderung · Ampelanlagen", "scopes": ["signage", "traffic-lights"] },
+          { "name": "Kamenica", "scope": "Horizontale und vertikale Beschilderung", "scopes": ["signage"] },
+          { "name": "Lipjan", "scope": "Horizontale und vertikale Beschilderung", "scopes": ["signage"] },
+          { "name": "Fushë Kosova", "scope": "Horizontale und vertikale Beschilderung", "scopes": ["signage"] },
+          { "name": "Obiliq", "scope": "Horizontale und vertikale Beschilderung", "scopes": ["signage"] },
+          { "name": "Gjakova", "scope": "Horizontale und vertikale Beschilderung · Verlegung von Glasfaserkabeln", "scopes": ["signage", "fiber-optic"] },
+          { "name": "Peja", "scope": "Horizontale und vertikale Beschilderung · Verlegung von Glasfaserkabeln", "scopes": ["signage", "fiber-optic"] }
         ]
       }
     ]
   },
   "numbers": {
     "label": "TSR in Zahlen",
-    "title": "Seit 1999.",
+    "title": "Seit 2018.",
     "stats": [
-      { "value": "25+", "label": "Jahre in Betrieb" },
+      { "value": "2018", "label": "Gründungsjahr" },
+      { "value": "8", "label": "Betreute Gemeinden" },
       { "value": "1200+", "label": "Abgeschlossene Projekte" },
-      { "value": "38", "label": "Bediente Gemeinden" },
       { "value": "4000+", "label": "Installierte Schilder" }
     ]
   },
   "footer": {
     "addressTitle": "Adresse",
-    "addressLines": ["Industriezone", "Prishtina, Kosovo"],
+    "addressLines": ["Rr. Fehmi Lladrovci", "12000 Fushë Kosovë, Kosovo"],
     "contactTitle": "Kontakt",
-    "phone": "+383 44 000 000",
+    "phone": "+383 44 51 74 28",
     "email": "info@tsr-ks.com",
-    "workingHours": "Montag - Freitag, 08:00 - 17:00",
+    "workingHours": "Montag – Freitag, 08:00 – 17:00",
     "copyright": "Copyright 2026 TSR GmbH"
   },
   "contact": {
@@ -238,13 +318,13 @@
         "id": "general",
         "label": "Allgemeine Anfrage",
         "description": "Fragen zu TSR, Partnerschaften oder allgemeine Informationen.",
-        "hint": "Bitte \"Allgemein\" in der Betreffzeile erwaehnen."
+        "hint": "Bitte \"Allgemein\" in der Betreffzeile erwähnen."
       },
       {
         "id": "projects",
         "label": "Projekte",
         "description": "Neue Projektanfragen, Angebote und Ortsbesichtigungen.",
-        "hint": "Gemeinde- oder Firmennamen angeben."
+        "hint": "Gemeinde- oder Institutionsnamen angeben."
       }
     ],
     "emailLabel": "E-Mail",
@@ -256,7 +336,7 @@
     "sendEmail": "E-Mail senden",
     "call": "Anrufen",
     "addressLabel": "Adresse",
-    "hoursLabel": "Oeffnungszeiten",
-    "hoursValue": "Montag \u2013 Freitag, 08:00 \u2013 17:00"
+    "hoursLabel": "Öffnungszeiten",
+    "hoursValue": "Montag – Freitag, 08:00 – 17:00"
   }
 }
