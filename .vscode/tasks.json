@@ -27,6 +27,11 @@
 				"-lc",
 				"cd media/video-2 && ffprobe -v error -show_entries stream=index,codec_name,codec_type:format=filename,format_name,duration,size,bit_rate road-2.mp4"
 			]
+		},
+		{
+			"label": "rename-api-svg-signs",
+			"type": "shell",
+			"command": "cd /Users/astrit/am/dev/api.tsr-ks.com/svg && i=1 && : > /tmp/svg-rename-map.txt && for f in $(ls *.svg | sort); do n=$(printf 'DE%03d' $i); echo \"$f -> $n.svg\" >> /tmp/svg-rename-map.txt; mv \"$f\" \"$n.svg\"; i=$((i+1)); done; echo DONE; wc -l /tmp/svg-rename-map.txt"
 		}
 	]
 }
