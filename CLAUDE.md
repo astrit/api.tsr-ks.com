@@ -7,3 +7,4 @@ This repo is the **single source of truth** for all tsr-ks.com content and media
 - All three files must keep the identical key structure. Structure changes also need the types in `../tsr-ks.com/settings/content.ts` updated.
 - Keep changes backwards compatible: add new keys first, remove old ones only after the website that no longer uses them is deployed.
 - `svg/` and `media/` hold the sign SVGs and videos used by the site.
+- **Never commit or push.** Leave changes in the working tree; the owner commits and publishes manually.
